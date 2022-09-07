@@ -1,0 +1,57 @@
+body,h3,h4,h5,h6,nav,div,aside,header{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: darkgray;
+    width: 100vw;
+    height: 50vh;
+}
+h1{
+    margin-left: 10%;
+    font-weight: 100;
+    font-size:  2.7em;
+    font-family: sans-serif;
+    padding-top: 0px;
+    color: blanchedalmond;
+}
+nav{
+   margin-left: 10%;
+   padding-top: 0px;
+}
+h2{
+    margin-left: 10%;
+    font-size:  2em;
+    margin-top: 0%;
+}
+aside{
+    margin-left: 10%;
+}
+div h3{
+    font-size:  1.5em;
+}
+div h4{
+    font-size: 1.5em;
+    margin-bottom: 0%;
+}
+div h5{
+    font-size:  1.5em;
+    margin-top: 0%;
+}
+div h6{
+    font-size: 1.5em;
+    margin:0px;
+    padding:0px;
+}
+.hide{
+    display:none;
+}
+.show{
+    display:block;
+}
+footer{
+    background-color: darkgray;
+    width: 100vw;
+    height: 10vh;
+}
+}
